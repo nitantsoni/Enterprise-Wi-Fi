@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/enterprise_wifi.iml" filepath="$PROJECT_DIR$/enterprise_wifi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Enterprise-Wi-Fi-master.iml" filepath="$PROJECT_DIR$/.idea/modules/Enterprise-Wi-Fi-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Enterprise-Wi-Fi-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Enterprise-Wi-Fi-master.app.iml" />
     </modules>
   </component>
 </project>

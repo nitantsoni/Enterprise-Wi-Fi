@@ -1,7 +1,15 @@
-## Quick Links
-<img src='https://github.com/ITVlab/Enterprise-Wi-Fi/blob/master/promo/banner.png?raw=true' />
+# Updated for FireOS
+Updated for FireOS 6. Tested with FireTV 4k Stick. No root etc needed. Download APK from releases and sideload it.
 
-[Download on Google Play](https://play.google.com/store/apps/details?id=com.felkertech.ussenterprise)
+Once it is connected to the correct network, and it should auto-connect to the WPA2 Enterprise Network on bootup. Though you may have to delete the old saved Wifi networks from Network settings. Should be no need to keep the APK installed once that is done.
+
+Should also work with Android TVs and is compatible with the remote
+
+# Installing certificate on FireOS
+
+Archive.org - https://web.archive.org/web/20210508193836/http://www.unibia.com/unibianet/systems-networking/install-additional-tls-root-cas-amazon-fire-tv
+
+Guide - http://www.unibia.com/unibianet/systems-networking/install-additional-tls-root-cas-amazon-fire-tv
 
 # Enterprise Wi-Fi
 Android TV does not by default have a user interface for setting up Enterprise Wi-Fi networks. These networks, use the [Extensible Authentication Protocol (EAP)](https://en.wikipedia.org/wiki/Extensible_Authentication_Protocol), a framework for authenticating your device with the Wi-Fi network by providing both a username and password.
